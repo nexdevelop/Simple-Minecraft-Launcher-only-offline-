@@ -1,5 +1,6 @@
 # Simple-Minecraft-Launcher-only-offline-
 was bored and created this python script 
+
 Requirments
 - python installed (Python 3.13+)
 - minecraft_launcher_lib
